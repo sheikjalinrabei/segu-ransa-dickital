@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap');
 
 :root{
     --branco: white;
@@ -6,8 +6,8 @@
     --fundo-senha: #00244D;
     --fundo-texto: #001E40;
     --borda: #0075FF;
-    --roboto: 'Roboto', sans-serif;
-    --roboto-mono: 'Roboto Mono', monospace;
+    --roboto: 'Inter', sans-serif;
+    --roboto-mono: 'JetBrains Mono', monospace;
 }
 
 *{
